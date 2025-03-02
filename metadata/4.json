@@ -10,10 +10,14 @@
 	"external_url": "https://boot.com",
 	"buttons": [
 		{
+		  "label": "J S Y ",
+		  "uri": "https://t.me/joystickchat"
+		},
 		  "label": "➡️ M ❤️‍🔥 H CHAT ⬅️",
 		  "uri": "https://t.me/mehchatik"
 		}
-    ],
+
+	],
 	"attributes": [
 		{
 			"trait_type": "Collection",
