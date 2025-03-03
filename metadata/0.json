@@ -1,27 +1,65 @@
-{
-	"custom_fields": {
-	"date": 1707112831638,
-	"dna": "97af8b3ccf5031ce1b5678b1055598838064e63d",
-	"edition": 1
-	},
-	"name": "M E H  NFT #1",
-	"description": "Hold 💎 M E H 💎 and get M 🌕 🌕 N token every month",
-	"image": "https://raw.githubusercontent.com/coinz-maker/sun_collection/refs/heads/main/images/0.png",
-	"external_url": "https://boot.com",
+  {
+    "name": "JUNIOR #1",
+    "description": "The first ",
+    "image": "https://raw.githubusercontent.com/coinz-maker/sun_collection/refs/heads/main/images/0.png",
+    "dna": "fd40db59f00295bfc45b4cc943396296f325dd71",
+    "edition": 1,
+    "date": 1740318130949,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Game"
+      },
+      {
+        "trait_type": "Effects",
+        "value": "Nothing"
+      },
+      {
+        "trait_type": "Cord",
+        "value": "Two"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Yellow"
+      },
+      {
+        "trait_type": "Corbs",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Joystick",
+        "value": "Joystick"
+      },
+      {
+        "trait_type": "Inclusion section",
+        "value": "Orange"
+      },
+      {
+        "trait_type": "Button Boxe",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Button Box",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Button",
+        "value": "Button"
+      },
+      {
+        "trait_type": "Inscription",
+        "value": "Inscription"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "Effect"
+      }
+    ],
 	"buttons": [
 		{
-		  "label": "➡️ M ❤️‍🔥 H CHAT ⬅️",
-		  "uri": "https://t.me/mehchatik"
+		  "label": "J S Y",
+		  "uri": "https://t.me/joystickchat"
 		}
     ],
-	"attributes": [
-		{
-			"trait_type": "Collection",
-			"value": "Autumn"
-		},
-		{
-			"trait_type": "Grade",
-			"value": "RARE"
-	  }
-	]
-}
+    "compiler": "Skareon Agency"
+  },

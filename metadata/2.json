@@ -1,27 +1,65 @@
-{
-	"custom_fields": {
-	"date": 1707112831638,
-	"dna": "97af3b3ccf5031ce1b5678b1055598838064e63d",
-	"edition": 1
-	},
-	"name": "M E H  NFT #3",
-	"description": "Hold 💎 M E H 💎 and get M 🌕 🌕 N token every month",
-	"image": "https://raw.githubusercontent.com/coinz-maker/sun_collection/refs/heads/main/images/2.png",
-	"external_url": "https://boot.com",
+  {
+    "name": "JUNIOR #3",
+    "description": "The first profitable NFT collection from the JOYSTICK JSI project. Hold JOYSTICK NFT Legendary and get a bonus in TON from trading $JSI",
+    "image": "https://raw.githubusercontent.com/coinz-maker/sun_collection/refs/heads/main/images/2.png",
+    "dna": "73c4ff27fdd8350942b77e02fb65eb4d4c450a40",
+    "edition": 3,
+    "date": 1740318134021,
+    "attributes": [
+      {
+        "trait_type": "Background",
+        "value": "Contra"
+      },
+      {
+        "trait_type": "Effects",
+        "value": "Flash"
+      },
+      {
+        "trait_type": "Cord",
+        "value": "One"
+      },
+      {
+        "trait_type": "Color",
+        "value": "Beige"
+      },
+      {
+        "trait_type": "Corbs",
+        "value": "Green"
+      },
+      {
+        "trait_type": "Joystick",
+        "value": "Joystick"
+      },
+      {
+        "trait_type": "Inclusion section",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Button Boxe",
+        "value": "Violet"
+      },
+      {
+        "trait_type": "Button Box",
+        "value": "Gray"
+      },
+      {
+        "trait_type": "Button",
+        "value": "Button"
+      },
+      {
+        "trait_type": "Inscription",
+        "value": "Inscription"
+      },
+      {
+        "trait_type": "Effect",
+        "value": "Nothing"
+      }
+    ],
 	"buttons": [
 		{
-		  "label": "J S Y | C H A T",
+		  "label": "J S Y 🎮",
 		  "uri": "https://t.me/joystickchat"
 		}
     ],
-	"attributes": [
-		{
-			"trait_type": "Collection",
-			"value": "Spring"
-		},
-		{
-			"trait_type": "Grade",
-			"value": "EPIC"
-	  }
-	]
-}
+    "compiler": "Skareon Agency"
+  },
