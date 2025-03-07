@@ -1,0 +1,27 @@
+{
+	"custom_fields": {
+	"date": 1707112831638,
+	"dna": "97af8b3ccf5031ce1b5678b1055598838064e63d",
+	"edition": 1
+	},
+	"name": "M E H  NFT #1",
+	"description": "Hold 💎 M E H 💎 and get M 🌕 🌕 N token every month",
+	"image": "https://raw.githubusercontent.com/coinz-maker/sun_collection/refs/heads/main/images/0.png",
+	"external_url": "https://boot.com",
+	"buttons": [
+		{
+		  "label": "➡️ M ❤️‍🔥 H CHAT ⬅️",
+		  "uri": "https://t.me/mehchatik"
+		}
+    ],
+	"attributes": [
+		{
+			"trait_type": "Collection",
+			"value": "Summer"
+		},
+		{
+			"trait_type": "Grade",
+			"value": "COMMON"
+	  }
+	]
+}
